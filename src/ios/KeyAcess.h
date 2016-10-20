@@ -21,7 +21,7 @@
     BDRSACryptorKeyPair *RSAKeyPair;
 }
 
-- (void)storeMethod22:(CDVInvokedUrlCommand*)command;
+- (void)storeMethod22sdads:(CDVInvokedUrlCommand*)command;
 - (void)getMethod:(CDVInvokedUrlCommand*)command;
 - (void)deleteMethod:(CDVInvokedUrlCommand*)command;
 - (void)geneKeyPair:(CDVInvokedUrlCommand*)command;
